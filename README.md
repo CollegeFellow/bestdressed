@@ -1,3 +1,5 @@
+#BestDressed - Webapp made with ExpressJS and AngularJS
+
 From the command line navigate to the folder and run:
 1. npm install
 2. bower install
